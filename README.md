@@ -1,16 +1,16 @@
 <div align="center">
- <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAlikanan-a%2FAlikanan-a&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+ <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffedorkanan%2Ffedorkanan&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Welcome+To+My+World+;I+am+Ali+kanan:+Full-Stack+Developer!;Always+looking+to+evolve...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Welcome+To+My+World+;I+am+Fedor+Kanan:+Full-Stack+Developer!;Always+looking+to+evolve...)](https://git.io/typing-svg)
 
 
 <h1> Trying to be senior ... </h1>
 <h2> Linux/Kali </h2>
 
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alikanan-a&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fedorkanan&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1050"/>
@@ -49,13 +49,13 @@
 
 
 <div align="center">
-<a href="https://github.com/Alikanan-a" target="_blank">
+<a href="https://github.com/fedorkanan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/alikanan_" target="_blank">
+<a href="https://www.instagram.com/fedorkanan_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/alikanan-a" target="_blank">
@@ -71,11 +71,11 @@
   <br/> 
  <hr/>
 
-<p align="center"><img align="cnter" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikanan-a&show_icons=true&locale=en&layout=compact" alt="alikanan-a" /></p>
+<p align="center"><img align="cnter" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedorkanan&show_icons=true&locale=en&layout=compact" alt="fedorkanan" /></p>
 
 
 
-| ![Alikanan-a github stats](https://github-readme-stats.vercel.app/api?username=Alikanan-a\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Alikanan-a GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alikanan-a&theme=tokyonight&theme=icegray&border_radius=8) |
+| ![fedorkanan github stats](https://github-readme-stats.vercel.app/api?username=fedorkanan\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![fedorkanan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fedorkanan&theme=tokyonight&theme=icegray&border_radius=8) |
 | -- | -- |
 
 <hr>
