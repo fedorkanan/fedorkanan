@@ -43,7 +43,7 @@
 
 
 
-- 📫 How to reach me **ali.kanan446@gmail.com**
+- 📫 How to reach me **fedorkanan@gmail.com**
 # <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> ## Connect with me  
 <br/>  
 
